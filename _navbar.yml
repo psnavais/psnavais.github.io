@@ -1,0 +1,17 @@
+name: "Mywebsite"
+title: "My new website"
+type: inverse
+left:
+  - text: "people"
+    href: ./people.html
+  - text: "publications"
+    href: ./publications.html
+  - text: "resources"
+    href: ./resources.html
+  - text: "news"
+    href: ./news.html
+  - text: "contact"
+    href: ./contact.html
+right:
+  - icon: fa-github fa-lg
+    href: https://github.com/psnavais
